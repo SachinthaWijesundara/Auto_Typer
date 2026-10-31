@@ -1,0 +1,14 @@
+# Virtual environment (created by run.bat / python -m venv)
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor / OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
